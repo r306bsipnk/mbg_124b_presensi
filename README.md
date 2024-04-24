@@ -1,16 +1,9 @@
-# presensi
+# Presensi Karyawan Perusahaan
+Aplikasi mobile untuk para karyawan perusahaan melakukan presensi secara digital. Dengan menggunakan layanan lokasi dan foto diri untuk memastikan presensi dilakukan secara tertib dan jujur oleh masing-masing karyawan.
 
-A new Flutter project.
+## NAMA KELOMPOK
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1.Evan Evani /12221115
+2.Muhammad Iqbal/12221114
+3.Mohammad ilham rifni/12221062
+4.Ridho/12220579
