@@ -6,3 +6,13 @@ Aplikasi mobile untuk para karyawan perusahaan melakukan presensi secara digital
 2. Muhammad Iqbal/12221114
 3. Mohammad ilham rifni/12221062
 4. Ridho/12220579
+
+##fitur
+1. Login karyawan
+2. ada dashboard
+3. update profile
+4. melakukan presensi
+5. melihat jadwal shift masuk
+6. riwayat melakukan presensi
+7. pengajuan cuti / izin tidak masuk kerja
+8. logout
