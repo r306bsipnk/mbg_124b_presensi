@@ -1,19 +1,16 @@
-import 'package:flutter/material.dart';
-import 'package:presensi/login.dart';
+
+import 'package:presensi/views/profile_page.dart';
 
 void main() {
-  runApp(MyApp());
+  runApp(const MyApp()); 
 }
 
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      debugShowCheckedModeBanner: false,
-      theme: ThemeData(
-        primarySwatch: Colors.indigo,
-      ),
-      home: LoginPage(),
+      title: 'Flutter Demo',
+      home: CardProfile()
     );
   }
 }
