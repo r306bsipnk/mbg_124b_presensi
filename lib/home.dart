@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:presensi/leave_request_page.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);
@@ -38,7 +39,10 @@ class _HomePageState extends State<HomePage>{
           Card(
             margin: const EdgeInsets.all(8),
             child: InkWell(
-              onTap: (){},
+              onTap: (){Navigator.of(context)
+          .pushReplacement(MaterialPageRoute(builder: (_) => LeaveRequestPage()));
+
+              },
               splashColor: Colors.blue,
               child: Center(
                 child: Column(
